@@ -1,7 +1,7 @@
 # Computational-Fluid-Dynamics
 # ****Couette Flow****
 #Objective: 
-#Solution of the non-dimensional partial differential equation for Couette Flow using the finite difference method.
+#Solution of the partial differential equation for Couette Flow using the finite difference method.
 #A convergence criterion of 10^-6 was used.
   #Explicit Methods:
       #Forward Time Central Space (FTCS).
