@@ -1,5 +1,5 @@
 # Computational-Fluid-Dynamics
-# ****Couette Flow****
+# ****Unsteady Couette Flow****
 #Objective: 
 #Solution of the partial differential equation for Couette Flow using the finite difference method.
 #A convergence criterion of 10^-6 was used.
